@@ -36,6 +36,8 @@ It contains both the original code examples from the book and my own solutions t
 ## How to Use
 
 1. Clone the repository:
+   </br>
    ```bash
    git clone https://github.com/CodeRyzen/Book-programming-in-python-with-examples-and-tasks.git
    cd Book-programming-in-python-with-examples-and-tasks
+   ```
