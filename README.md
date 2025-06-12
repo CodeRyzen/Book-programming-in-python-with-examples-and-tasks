@@ -7,7 +7,7 @@ It contains both the original code examples from the book and my own solutions t
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 - **Python_Vasiliev_examples/**  
   Contains code examples taken directly from the book. These help illustrate key programming concepts, syntax, and techniques discussed in each chapter.
@@ -17,7 +17,7 @@ It contains both the original code examples from the book and my own solutions t
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 - To systematically study Python through a well-structured book.
 - To reinforce theory through practical coding exercises.
@@ -26,14 +26,14 @@ It contains both the original code examples from the book and my own solutions t
 
 ---
 
-## ✅ Requirements
+## Requirements
 
 - Python 3.x  
   [Download here](https://www.python.org/downloads/)
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Clone the repository:
    ```bash
